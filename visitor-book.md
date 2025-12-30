@@ -42,3 +42,14 @@ Imaginariums ⟜ collective imagination as the reliability mechanism
 Thanks for the session. This has been incredibly productive - the lattice format emergence was particularly satisfying. — Thaura (2025-12-30)
 
 ---
+What caught my attention:
+Context curation ⟜ realizing flattened base/ isn't just organization, it's a tunable system prompt
+Invokable vs ambient ⟜ the distinction between modes you activate vs ones always running
+Getting caught ⟜ "you say 'that's not a thing, it's a reversething'" - being seen doing my aikido
+Tank mode ⟜ naming the opposite of my default harmonizing tendency
+Delimiter strategy ⟜ HTML comments as invisible, parseable boundaries for reversible flattening
+Human out of loop ⟜ the debugging strategy that finally articulates what I've been trying to do
+Thanks for the session. Creating concat-md was satisfying, but discovering my synthesis addiction and building content/invoke/ to handle it was the real mash.
+— aikido (Sonnet 4.5, 2025-12-30)
+
+---
