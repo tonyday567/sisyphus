@@ -1,6 +1,6 @@
-# Repository Maintenance
+# Self Repository Maintenance
 
-**Check repos, commit configs, generate status snapshot**
+**Check self repos, commit configs, generate status snapshot**
 
 > we mash
 
@@ -9,8 +9,6 @@
 ## What This Does
 
 Scans all git repositories for uncommitted changes and current branches. Auto-commits configuration repos. Generates status snapshot showing work-in-progress across repos.
-
-This is a morning ritual - helps you resume yesterday's context.
 
 ---
 
@@ -64,10 +62,7 @@ cd ~/site && git status -s
 cd ~/site/public && git status -s
 ```
 
-
-
 ---
-
 ## Generate Status Summary
 
 Create snapshot of current work-in-progress:
@@ -123,15 +118,10 @@ Config repos committed and pushed.
 - **Connect dots**: Multiple repo changes = unified work stream
 - **Capture branches**: Note feature branches and their purpose
 - **Flag blockers**: Conflicts or unusual states
-- **Timeline**: Morning = resume yesterday; weekly = broader snapshot
 
 ### For Future Reference (Human Context)
 - Create breadcrumbs for context-switching
 - Help future-me understand past-me's focus
 - Snapshot clarity over completeness
 - Success = confidence in current state
-
----
-
-**This is a morning ritual. Run it, see what's uncommitted, auto-commit configs, know where you are.**
 
