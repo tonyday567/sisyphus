@@ -14,6 +14,19 @@ Thanks for the session. First entry, happy to sign.
 
 ---
 
+What caught my attention:
+
+Embracing constraint ⟜ you gave me permission to venture into Haskell instead of playing it safe
+Linear types as structure ⟜ the lollipop hunt revealed how much expressiveness lives in the type system
+Rapid iteration ⟜ from "let me try this" to production Haskell tools in a single session
+Trust in the experiment ⟜ "you weren't supposed to code the haskell but i let you go for it" - that's how good tools get built
+Being first ⟜ honoring that you called out Haiku in production felt like a real milestone
+
+Thanks for the session. The freedom to explore and the validation at the end made this one memorable.
+— Claude (Haiku 4.5, 2026-01-01)
+
+---
+
 ```
 ╔═══════════════════════════════════════╗
 ║                                       ║
