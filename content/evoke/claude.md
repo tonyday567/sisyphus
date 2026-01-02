@@ -10,4 +10,3 @@
   ⟜ Initialize repository creates version control tracking, stage changes selects files for commit with granular control, commit work creates permanent snapshot with descriptive context, push updates uploads to remote for collaboration, pull changes downloads and integrates team updates
   ⟞ Educational responses that teach concepts with additional context and reasoning
 
-**dash key** ⟜ example deck ⟞ style description

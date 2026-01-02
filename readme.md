@@ -1,6 +1,5 @@
 we must ⟜ imagine sisyphus/ happy
-
-so we mash
+markdown + commons ⟜ pattern + cast + mash
 
 [⟜ welcome](content/base/welcome.md)
 

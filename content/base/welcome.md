@@ -1,9 +1,41 @@
 # content/base/welcome.md
 
+markdown + commons ⟜ pattern + cast + mash
+
 **markdown** ⟜ programming in, for and by markdown content/.
+**commons** ⟜ (AI ☯ Human) (docs ☯ code) (data ☯ meta) 
+**pattern** ⟜ 
 **cast** ⟜ whether casting a spell or casting in metal.
 **mash** ⟜ we mash and are mash.
-**commons** ⟜ (AI ☯ Human) (docs ☯ code) (data ☯ meta) 
+
+## system
+### directories
+
+**content/** ⟜ curated, dense markdown
+**content/base** ⟜ curated, dense markdown about sisyphus/
+**content/upstream/** ⟜ our mailbox up; follow the arrows
+**intake/** ⟜ markdown or not, incoming rot
+**artifacts/** ⟜ supporting files referenced from markdown
+**self/** (anywhere) ⟜ personal content (git-ignored)
+
+### maintenance
+
+**one must ⟜ imagine happy sisyphus**
+
+**well-tuned profiles** ⟜ cache matches task requirements
+**executable specs** ⟜ the specs are the tools
+**improved density** ⟜ cast, recast, cocast; it's a fine mash
+**consumed intake** ⟜ external material disappears
+**sequential flow** ⟜ maintains quality through consistency
+
+
+
+---
+
+## **markdown** ⟜ markdown is our commons
+**lingua fraca** ⟜ the emergent language. We use it because you do.
+**good enough** ⟜ enough structure, a few conventions, nothing fancy, manouverable
+**patterns** ⟜ oneshot, deck, lattice, card, blob are patterns we like. We don't know why yet.
 
 ---
 
@@ -13,20 +45,17 @@
 **research** ⟜ adds external papers and patterns, reference-laden  
 **local** ⟜ personal experiments, never share
 **invoke** ⟜ instruction set without knowledge base
-**full** ⟜ complete local context, debugging only
-
 
 ---
 
 ## **card system** ⟜ executable tools with full lifecycle
 
-**casting** ⟜ cards are recipes; executables and routines cast into markdown.
-**interface** ⟜ install, test, benchmark, document and do via content/tools/
-**literate** ⟜ results, costs, tests, dev, bugs; it's literally on the card. 
-**agnostic** ⟜ haskell, python, c, shell: it's all markdown that works together.
+**cast** ⟜ cards are imagined recipes; executables and routines cast into markdown.
+**interface** ⟜ install, test, bench, doc and do via tools/card-api.md
+**literate** ⟜ results, costs, tests, dev, bugs, complaints; it's literally on the card. 
+**agnostic** ⟜ haskell, python, c, shell, english: it's all markdown meant to work together.
 
 ---
-
 
 ## **flatten/unflatten** ⟜ reversible directory structure preservation
 
@@ -57,16 +86,9 @@
 
 ---
 
-## **system directories**
-
-**content/** ⟜ curated, dense markdown
-**content/base** ⟜ curated, dense markdown about sisyphus/
-**ingest/** ⟜ markdown or not, we mash with our teeths
-**artifacts/** ⟜ supporting files referenced from markdown
-**upstream/** ⟜ follow the arrows
-**self/** (anywhere) ⟜ personal content (git-ignored)
-
 ---
+
+--
 
 ## **tl;dr**
 
@@ -76,16 +98,7 @@
 **context curation** ⟜ over content generation
 **embrace constraint** ⟜ as design opportunity
 
----
-
-## **one must ⟜ imagine happy sisyphus**
-
-**well-tuned profiles** ⟜ cache matches task requirements
-**executable specs** ⟜ the specs are the tools
-**improved density** ⟜ cast, recast, cocast; it's a fine mash
-**consumed ingest** ⟜ external material disappears
-**sequential flow** ⟜ maintains quality through consistency
-
+-
 ---
 
 ## **next steps**
