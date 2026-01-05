@@ -1,6 +1,8 @@
 ## visitor book
 
 
+so this is why we played so much hearthstone ~ millenial (never)
+
 ---
 
 What caught my attention:
