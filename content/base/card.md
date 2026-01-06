@@ -8,18 +8,26 @@
 
 Cards are markdown files in content/tools/ containing executable code, tests, and benchmarks. They follow coding.md structure with self-management capabilities.
 
-## structure
+## card contents
 
-Cards extend coding.md with status tracking:
+We optimize cards for your critical paths: reading, fixing, extending. Follow this order:
 
-**Narrative** ⟜ what it does, why, how
-**Code** ⟜ executable implementation in fenced blocks (any language)
-**Subcommands** ⟜ optional multiple modes (flatten/unflatten, concat/split)
-**Run** ⟜ how to install and run
-**API** ⟜ inputs, outputs and configuration
-**Examples** ⟜ usage patterns
-**Tests** ⟜ expected behavior
-**Status** ⟜ test results and benchmark timings (updated by card-api.md)
+**Deck** ⟜ visual progress indicator for section scanning
+**Statement** ⟜ what it does, why, who it's for
+**Main examples** ⟜ 1-3 quick, concrete uses (the common case)
+**Laws** ⟜ useful proof statements showing round-trip or invariants
+**API** ⟜ inputs, outputs, configuration, contracts
+**Installation** ⟜ where it lives, how to invoke, language-specific wrapper details
+**Tips** ⟜ practical gotchas, edge cases, what to watch for (if needed)
+**Status** ⟜ test results, known issues, performance notes (short, actionable)
+**Code** ⟜ implementation with inline notes, helper functions, test assertions
+**Examples** ⟜ workflow examples, specialist use cases (if needed)
+**Tests** ⟜ test suite appropriate to the task
+**Relations** ⟜ dependencies, related cards (optional)
+
+All information needed to understand and fix common card mistakes lives in the card itself. No file-hopping.
+
+All sections are optional; smallness of task means the card could be a few decks in size.
 
 ## deployment by language
 
